@@ -44,6 +44,7 @@ func main() {
 			},
 		)
 
+		// At the moment this is a fallback in case the API call fails
 		loremIpsumText := `User-centricity drives our vision, leveraging agile methodologies to iterate and pivot swiftly. Our roadmap aligns with market trends and user feedback loops, fostering innovation and growth. We prioritize features based on ROI and user impact, ensuring each sprint delivers tangible value.
 
 Leveraging KPIs and analytics, we gauge feature adoption and user engagement, refining our product strategy iteratively. Through A/B testing and user interviews, we validate hypotheses and iterate towards product-market fit. Collaborating cross-functionally, we streamline workflows and enhance the user experience, fostering customer loyalty and retention.
